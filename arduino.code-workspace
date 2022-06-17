@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Arduino",
+			"path": "..\\..\\Arduino"
+		},
+		{
+			"name": "ultrasoundcode",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
